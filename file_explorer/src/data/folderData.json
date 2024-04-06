@@ -1,0 +1,15 @@
+API Documentation
+	•	Login
+https://kiosk-backend.nutritap.in/api/users/admin-login
+{
+  "password": "123456",
+  "username": "test@gmail.com"
+}
+
+
+
+	•	Get Product Details
+https://kiosk-backend.nutritap.in/api/catalogue/get?clientId=25&cid=22
+		
+
+
